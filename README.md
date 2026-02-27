@@ -46,7 +46,7 @@ Customer-level features are generated using:
 
 ### ROC Curve
 
-![Churn ROC Curve](clvpred.jpg)
+![Churn ROC Curve](churnpred.jpg)
 
 *(Replace with correct path if needed)*
 
@@ -58,7 +58,7 @@ Customer-level features are generated using:
 
 ### CLV Regression Performance
 
-![CLV Prediction](churnpred.jpg)
+![CLV Prediction](clvpred.jpg)
 
 *(Replace with correct path if needed)*
 
